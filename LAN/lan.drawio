@@ -1,9 +1,275 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Страница — 1" id="lEGWNjMaybqHMdPIUl3j">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-1150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-1150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1150" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-646.5" width="980" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-8" value="Корпус 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="127" y="-1150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-9" value="Корпус 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="494" y="-1150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-11" value="Корпус 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="-1150" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-12" value="Ресторан" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="-1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-13" value="" style="group;imageAspect=0;snapToPoint=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="45" y="-872.5" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-14" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9782a_2530_24_front;connectable=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-13">
+          <mxGeometry x="60" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-15" value="MikroTik CRS309" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-13">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="435" y="-872.5" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-17" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9782a_2530_24_front;connectable=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-16">
+          <mxGeometry x="60" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-18" value="MikroTik CRS309" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-16">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="807" y="-872.5" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-20" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9782a_2530_24_front;connectable=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-19">
+          <mxGeometry x="60" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-21" value="MikroTik CRS309" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-19">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1164" y="-872.5" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-23" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9782a_2530_24_front;connectable=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-22">
+          <mxGeometry x="60" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-24" value="MikroTik CRS309" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-22">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1520" y="-872.5" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-26" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9782a_2530_24_front;connectable=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-25">
+          <mxGeometry x="60" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-27" value="MikroTik CRS309" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-25">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;startFill=1;jumpStyle=arc;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="-850" as="sourcePoint" />
+            <mxPoint x="900" y="-500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="-710" />
+              <mxPoint x="900" y="-710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;startFill=0;endFill=1;snapToPoint=0;strokeColor=#001DBC;jumpStyle=arc;fixDash=1;fillColor=#0050ef;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="610" y="-850" as="sourcePoint" />
+            <mxPoint x="910" y="-500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="-720" />
+              <mxPoint x="910" y="-719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-30" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;startFill=0;endFill=1;snapToPoint=0;strokeColor=#001DBC;jumpStyle=arc;fixDash=1;fillColor=#0050ef;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="982" y="-855" as="sourcePoint" />
+            <mxPoint x="930" y="-500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="982" y="-710" />
+              <mxPoint x="930" y="-710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-31" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;startFill=0;endFill=1;snapToPoint=0;strokeColor=#001DBC;jumpStyle=arc;fixDash=1;fillColor=#0050ef;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1340" y="-855" as="sourcePoint" />
+            <mxPoint x="940" y="-500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="-700" />
+              <mxPoint x="940" y="-700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;startFill=0;endFill=1;snapToPoint=0;strokeColor=#001DBC;jumpStyle=arc;fixDash=1;fillColor=#0050ef;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1700" y="-855" as="sourcePoint" />
+            <mxPoint x="950" y="-500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1700" y="-690" />
+              <mxPoint x="950" y="-690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-39" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-920" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-40" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-950" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-41" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-980" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-42" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-1010" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-43" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-1040" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-44" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-1070" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-45" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-922.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-46" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-952.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-47" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-982.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-48" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-1012.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-49" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-1042.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-50" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-1072.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-51" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-922.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-52" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-952.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-53" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-982.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-54" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-1012.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-55" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-1042.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-56" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-1072.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-57" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="-920" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-58" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="-950" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-59" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="-980" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-60" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="-1010" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-61" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="-1040" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-62" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="-1070" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-63" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-920" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-64" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-950" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-65" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-980" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-66" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-1010" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-67" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-1040" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-68" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-1070" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-69" value="Корпус 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-1150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-70" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-300" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-71" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-330" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-72" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-360" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-73" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-390" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-74" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-420" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-75" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl074a_hpe_aruba_3810m_48_port_gt_poeplus_1_slot_switch;" vertex="1" parent="1">
+          <mxGeometry x="867" y="-450" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="-517.5" width="249" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-10" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MikroTik&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CRS317&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-76">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-36" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl624a_aruba_8325_32y8c_f2b_front;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-76">
+          <mxGeometry x="107" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1110" y="-547.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-34" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MikroTik CCR2116&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-77">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-38" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.gateways_controllers.aruba_7205_mobility_controller_front;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-77">
+          <mxGeometry x="88" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1110" y="-490" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-79" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MikroTik CCR2116&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-78">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-80" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.gateways_controllers.aruba_7205_mobility_controller_front;" vertex="1" parent="9y2gCdA-jLrXaHQUm1rY-78">
+          <mxGeometry x="88" y="7.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9y2gCdA-jLrXaHQUm1rY-81" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CosmosDB.svg;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="-550" width="240" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
